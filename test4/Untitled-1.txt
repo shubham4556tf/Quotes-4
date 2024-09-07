@@ -1,0 +1,44 @@
+ .style1{
+            height: 70vw;
+            width: 51vw;
+            
+          }
+          .style2{
+            height:72vw;
+            width:35vw;
+          }
+          .style3{
+            width:44vw;
+          }
+          .style4{
+            height: 75vw;
+            width:43vw;
+            
+          }
+          .style5{
+            position: relative;
+            bottom: 34vw;
+            width:45vw; 
+            
+          }
+          .style6{
+            width: 42vw;
+          
+          }
+        
+          .style7{
+            position: relative;
+            bottom: 34vw;
+            width:45vw;
+          }
+          .style8{
+            width:42vw;
+          }
+          .style9{
+            height:30vw;
+            width:47vw;
+            position: relative;
+            bottom:16vh;
+            
+          }
+      
